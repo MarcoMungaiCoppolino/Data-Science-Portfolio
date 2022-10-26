@@ -1,6 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "./scripts",
-        "./Wine_Quality./Wine_Quality"
-    ]
-}
