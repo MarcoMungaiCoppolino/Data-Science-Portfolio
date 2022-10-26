@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: Wine-Quality
+Version: 0.0.6
+Summary: A package that allows to build simple streams of video, audio and camera data.
+Author: Marco Mungai Coppolino
+Author-email: <marcomungaicoppolino@gmail.com>
+Keywords: python,data science,preprocessing,encoding
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown

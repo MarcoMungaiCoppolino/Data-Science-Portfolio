@@ -1,6 +1,6 @@
 from setuptools import setup
 
-VERSION = '0.0.5'
+VERSION = '0.0.6'
 DESCRIPTION = 'A package that allows to build simple streams of video, audio and camera data.'
 LONG_DESCRIPTION = ''
 
