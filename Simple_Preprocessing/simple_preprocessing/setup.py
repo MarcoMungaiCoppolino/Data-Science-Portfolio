@@ -1,6 +1,6 @@
 from setuptools import setup
 
-VERSION = '0.0.4'
+VERSION = '0.1.0'
 DESCRIPTION = 'A package with a collection of tools for automating some steps of the data preprocessing process.'
 LONG_DESCRIPTION = ''
 
