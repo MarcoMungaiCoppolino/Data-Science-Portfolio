@@ -1,12 +1,12 @@
 # Data-Science-Projects
 Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. 
 
-Tech Stack
-
+## Tech Stack
 **Python**: NumPy, Pandas, Seaborn, Matplotlib, SHAP, CherryPy \
 **Machine Learning**: scikit-learn, TensorFlow, Keras, PyTorch \
-**Data Engineering & Big Data**: SQL (Oracle, MySQL), NoSQL (MongoDB, Redis), Big Data Processing (Hadoop, Spark)
+**Data Engineering & Big Data**: SQL (Oracle, MySQL), NoSQL (MongoDB, Redis), Big Data Processing (Hadoop, Spark) \
 **Other Languages**: (MATLAB, Java, C, C++) 
+
 ## Projects Structures
 Each project repository follow a common structure
 
