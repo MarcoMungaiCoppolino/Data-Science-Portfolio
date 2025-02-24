@@ -1,9 +1,5 @@
 # custom_funcs.py
 
-# In projectname/projectname/custom_funcs.py, we can put in custom code that 
-# gets used across more than one notebook. One example would be downstream 
-# data preprocessing that is only necessary for a subset of notebooks. 
-
 def custom_preprocessor(df):  # give the function a more informative name!!!
     """
     Processes the dataframe such that {insert intent here}. (Write better docstrings than this!!!!)
@@ -16,8 +12,6 @@ def custom_preprocessor(df):  # give the function a more informative name!!!
     :returns: A modified dataframe.
     """
     return (df.groupby('col1').count()['col2'])
-
-# Now, in our notebooks, we can do:
 
 # notebook.ipynb
 
