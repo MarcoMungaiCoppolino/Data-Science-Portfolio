@@ -15,7 +15,7 @@ This assignment explores the efficient management of IoT sensor data and optimiz
   - Tuned hyperparameters (frame length, step, dB threshold) to improve speech detection.  
   - Evaluated the trade-off between accuracy and latency in constrained environments.  
 
-📄 [Read Full Report](ML4IoT_HW1_Report.pdf)  
+📄 [Read Full Report](Machine_Learning_for_IOT/Homework_1/ML4IoT_HW1_Report.pdf)  
 
 ---
 
@@ -30,7 +30,7 @@ This homework focuses on **developing a compact, efficient keyword spotting mode
   - Applied **Depthwise Separable CNNs (DSCNNs)** to reduce model size.  
   - Used **structured pruning** to minimize storage while maintaining accuracy.  
 
-📄 [Read Full Report](ML4IoT_HW2_Report.pdf)  
+📄 [Read Full Report](Machine_Learning_for_IOT/Homework_2)  
 
 ---
 
@@ -49,7 +49,7 @@ This report covers **real-time sensor data collection, storage, and visualizatio
 - **MQTT vs REST for IoT**  
   - Analyzed the trade-offs between **MQTT (low-latency, publish/subscribe model)** and **REST (request-response model)** for IoT applications.  
 
-📄 [Read Full Report](ML4IoT_HW3_Report.pdf)  
+📄 [Read Full Report](Machine_Learning_for_IOT/Homework_3)  
 
 ---
 
