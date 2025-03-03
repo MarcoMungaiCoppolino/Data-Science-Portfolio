@@ -15,7 +15,7 @@ This assignment explores the efficient management of IoT sensor data and optimiz
   - Tuned hyperparameters (frame length, step, dB threshold) to improve speech detection.  
   - Evaluated the trade-off between accuracy and latency in constrained environments.  
 
-📄 [Read Full Report](Machine_Learning_for_IOT/Homework_1/ML4IoT_HW1_Report.pdf)  
+📄 [Read Full Report](Homework_1/ML4IoT_HW1_Report.pdf)  
 
 ---
 
